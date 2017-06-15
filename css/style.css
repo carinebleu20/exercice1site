@@ -1,0 +1,91 @@
+header nav ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+header nav ul li{
+	float: left;
+	width: 16.66667%;
+	margin: 0;
+	padding: 0;
+	border-bottom: 2px solid #FF55C2;
+}
+
+header nav a{
+	display: block;
+	font-size: 1.25em;
+	color: white;
+	background: black;
+	margin-right: 0px;
+	padding: 15px 0;
+	text-align: center;
+
+}
+header nav a:hover{
+	color: #FF55C2;
+}
+.mat{
+	color:  #FF55C2;
+	background: black;
+	padding: 15px 0;
+	font-size: 1.25em;
+}
+
+header{
+	
+}
+h4{
+	background-color: #C6C6C6;
+	padding: 20px 0;
+	text-align: center;
+	margin-top: 20px;
+	font-size: 1.45em;
+}
+.wrapper{
+	background-image:url('../images1/coworking.jpg');
+	height: 500px;
+}
+
+.card-white{
+	background: white;
+	padding: 30px;
+	box-shadow: 1px 1px 2px #e7e7e7;
+	border-radius: 4px;
+	margin: 20px 50px;
+}
+
+#cat{
+	margin-top: 30px;
+	margin-left: 890px;
+	margin-right: 20px;
+}
+.btn-primary{
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	background-color: #FF55C2;
+}
+
+.btn-primary:hover{
+	background-color: #FF55C2;
+}
+
+button{
+padding-left: 40px;
+	padding-right: 40px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+.PAT{
+	background-color: black;
+	padding: 20px 0;
+	margin-top: 20px;
+	color: white;
+
+}
+
+#pot{
+	border-left: 1px solid #C6C6C6;
+}
